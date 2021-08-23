@@ -1,0 +1,43 @@
+### YamlMime:Profile
+uid: advocates.sam-wronski
+name: Sam Wronski
+metadata:
+  title: Sam Wronski - Cloud Advocate
+  description: Home page for Sam Wronski, a Microsoft Cloud Developer Advocate
+  ms.author: samwronski
+  team: regional
+remarks: |
+
+  ## Bio
+  
+
+  ## Skills
+  * .NET
+  * Java
+  * DevOps
+  * Containers
+  * Kubernetes
+  * Game Development
+
+tagline: Azure / .NET / Containers
+image:
+  alt: "Sam Wronski Cloud Developer Advocate"
+  src: media/profiles/gwyneth-pena.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/runewake2
+  - title: GitHub
+    url: https://github.com/runewake2
+  - title: LinkedIn
+    url: https://linkedin.com/in/samuel-wronski-7235513b
+  - title: Blog
+    url: https://worldofzero.com
+  - title: Twitch
+    url: https://twitch.tv/worldofzerodev
+  - title: YouTube
+    url: https://youtube.com/WorldOfZeroDevelopment
+location:
+  display: San Francisco, California, United States
+  lat: 37.784561
+  long: -122.398422
+  
